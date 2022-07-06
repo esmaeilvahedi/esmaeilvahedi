@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito&theme=dark)](https://git.io/awesome-stats-card)
+
 <!--
 **esmaeilvahedi/esmaeilvahedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
